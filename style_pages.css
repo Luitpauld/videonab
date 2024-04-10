@@ -1,0 +1,49 @@
+@media only screen and (orientation: portrait) and (min-device-width: 320px) {
+	body {
+    width: 95%;
+		font-size: 200%;
+		background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);  }
+  h1 {
+    width: 95%;
+	  font-size: 150%;
+	  text-align: center;
+	  color: white;
+  }
+	table {
+		align: center;
+  border-spacing: 10px;
+  display: table;
+		background-color: #3257b4;
+}
+	tr{
+		background-color: white;
+	}
+}
+ 
+/* Samsung Galaxy S4 (альбомный режим) */
+@media only screen and (orientation: landscape) and (min-device-width: 320px) {
+	body {
+    width: 95%;
+		font-size: 200%;
+		background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);  }
+  h1 {
+    width: 95%;
+	  font-size: 150%;
+	  text-align: center;
+	  color: white;
+  }
+	table {
+		align: center;
+  border-spacing: 10px;
+  display: table;
+		background-color: #3257b4;
+}
+	tr{
+		background-color: white;
+	}
+}
+}
+
+	
