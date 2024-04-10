@@ -1,4 +1,4 @@
-@media only screen and (orientation: portrait) and (min-device-width: 980px) {
+@media only screen and (orientation: portrait) and (min-device-width: 320px) {
 	body {
     width: 95%;
   }
@@ -8,7 +8,7 @@
 }
  
 /* Samsung Galaxy S4 (альбомный режим) */
-@media only screen and (orientation: landscape) and (min-device-width: 980px) {
+@media only screen and (orientation: landscape) and (min-device-width: 320px) {
 	body {
     width: 95%;
   }
