@@ -3,7 +3,8 @@
     width: 95%;
 		font-size: 200%;
 		background: rgb(2,0,36);
-background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);  }
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);  
+	background-repeat: no-repeat;}
   h1 {
     width: 95%;
 	  font-size: 150%;
@@ -27,7 +28,8 @@ background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rg
     width: 95%;
 		font-size: 200%;
 		background: rgb(2,0,36);
-background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);  }
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);  
+	background-repeat: no-repeat;}
   h1 {
     width: 95%;
 	  font-size: 150%;
