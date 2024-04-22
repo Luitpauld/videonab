@@ -40,6 +40,7 @@ background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rg
   border-spacing: 30px;
   display: table;
 		background-color: #3257b4;
+		border-radius: 5px;
 }
 	tr{
 		background-color: white;
