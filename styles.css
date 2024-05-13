@@ -1,49 +1,62 @@
 @media only screen and (orientation: portrait) and (min-device-width: 320px) {
-	body {
-    width: 95%;
-		font-size: 200%;
-		background: rgb(2,0,36);
-background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);  }
-  h1 {
-    width: 95%;
-	  font-size: 150%;
-	  text-align: center;
-	  color: white;
-  }
-	table {
-		align: center;
-  border-spacing: 30px;
-  display: table;
-		background-color: #F6F8FA;
-		border-radius: 5px;
+body {
+width: 95%;
+font-size: 200%;
+background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);
 }
-	tr{
-		background-color: white;
-	}
+	
+h1 {
+width: 95%;
+font-size: 150%;
+text-align: center;
+color: white;
 }
- 
+	
+table {
+align: center;
+border-spacing: 30px;
+display: table;
+background-color: #F6F8FA;
+border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border: 1px solid #000;
+  display: block;
+}
+	
+tr{
+background-color: white;
+}
+}
+
 /* Samsung Galaxy S4 (альбомный режим) */
 @media only screen and (orientation: landscape) and (min-device-width: 320px) {
-	body {
-    width: 95%;
-		font-size: 200%;
-		background: rgb(2,0,36);
-background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);  }
-  h1 {
-    width: 95%;
-	  font-size: 150%;
-	  text-align: center;
-	  color: white;
-  }
-	table {
-		align: center;
-  border-spacing: 30px;
-  display: table;
-		background-color: #F6F8FA;
-		border-radius: 5px;
+body {
+width: 95%;
+font-size: 200%;
+background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(98,98,184,1) 35%, rgba(0,212,255,1) 100%);
 }
-	tr{
-		background-color: white;
-	}
+	
+h1 {
+width: 95%;
+font-size: 150%;
+text-align: center;
+color: white;
+}
+	
+table {
+align: center;
+border-spacing: 30px;
+display: table;
+background-color: #F6F8FA;
+border-radius: 5px;
+}
+	
+tr{
+background-color: white;
 }
 }
+
