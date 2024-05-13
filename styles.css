@@ -2,7 +2,7 @@
 body {
 width: 95%;
 font-size: 200%;
-
+background-color: #F6F8FA; 
 
 }
 	
@@ -17,7 +17,7 @@ table {
 align: center;
 border-spacing: 30px;
 display: table;
-background-color: #F6F8FA;
+
 border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -27,7 +27,7 @@ border-radius: 10px;
 }
 	
 tr{
-background-color: white;
+background-color: #F6F8FA; 
 }
 }
 
@@ -36,26 +36,31 @@ background-color: white;
 body {
 width: 95%;
 font-size: 200%;
-
+background-color: #F6F8FA; 
 }
 	
 h1 {
 width: 95%;
 font-size: 150%;
 text-align: center;
-color: white;
+color: black;
 }
 	
 table {
 align: center;
 border-spacing: 30px;
 display: table;
-background-color: #F6F8FA;
-border-radius: 5px;
+
+border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border: 1px solid #000;
+  display: block;
 }
 	
 tr{
-background-color: white;
+background-color: #F6F8FA; 
 }
 }
 
